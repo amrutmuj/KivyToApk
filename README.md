@@ -39,3 +39,6 @@ i) !buildozer android clean
 
 Before running the cells, make sure to upload your app code to the colab notebook and after running the bulldozer init command, make sure to edit the specs file generated and nothing else!
 This is the easiest and most convenient way to build apps without the need for an actual system!
+
+
+# A Demo Code: PingPong is attached Use it for application
